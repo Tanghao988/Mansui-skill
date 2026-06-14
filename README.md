@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-(https://github.com/Tanghao988/Mansui-skill)
+https://github.com/Tanghao988/Mansui-skill
 
 
    
