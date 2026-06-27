@@ -14,7 +14,7 @@ https://github.com/Tanghao988/Mansui-skill
 
 通过同事skill，caveman算法压缩，numa-skill色彩补充,colleague-skill-dot-skill格式润色，包含完整穗篇原文内容并加入个人创造，所诞生的可与真人行为类似的skill，并使用 caveman对其暴力压缩所得到更拟人化的skill
 
-> 是拥有满穗所有核心记忆，加入些二创内容的 ai skill，拥有完整的思维链、记忆链…或者说是并不成熟的遗忘机制？
+> 是拥有满穗所有核心记忆，加入些二创内容的 ai skill，拥有完整的思维链、记忆链…或者说是并不成熟的遗忘机制？记得搭配满穗人设.txt使用喵✨
 
 总之，此 skill 可是耗费我集大成心血的，用了4种skill 生成器，4、5 万字的原文内容，是可以长期使用的有记忆的 skill。
 
